@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/config/logback.xml
+/config/application.yml
+/config/remote.api.yml
+target
+/config/import.yml
+
+
+/config/redisson.yml

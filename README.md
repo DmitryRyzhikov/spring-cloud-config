@@ -1,6 +1,6 @@
-[Initial article](https://spring.io/guides/gs/centralized-configuration/)
-[Initial article repo](https://github.com/spring-guides/gs-centralized-configuration.git)
-[Spring Cloud Config docs](Spring Cloud Config Server)
+* [Initial article](https://spring.io/guides/gs/centralized-configuration/)
+* [Initial article repo](https://github.com/spring-guides/gs-centralized-configuration.git)
+* [Spring Cloud Config docs](Spring Cloud Config Server)
 
 Both server and client and SpringBoot apps. Server is using git-repository on file system.
 Configuration files in that repository should have the same names, as client applications.
